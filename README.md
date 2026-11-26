@@ -1,15 +1,9 @@
-<!-- Perfil de SebastianGaldames -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:E62429,100:0D0D0D&height=220&section=header&text=Sebastian%20Galdames&fontSize=50&fontColor=FFFFFF&fontAlignY=40&rotate=-3&animation=twinkling&desc=Full%20Stack%20Dev%20%7C%20APIs%20%7C%20Homelab&descAlignY=62&descSize=20" />
+  <img src="assets/header.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=34&duration=2500&pause=600&color=E62429&center=true&vCenter=true&width=650&lines=¡POW!+Construyo+APIs+y+webs;¡BAM!+Java+%7C+TypeScript+%7C+Vue;¡ZAP!+Automatizo+mi+homelab;¡BOOM!+1000%2B+contribuciones+este+año;¡KRAK!+Siempre+aprendiendo+algo+nuevo" />
-</p>
-
-<p align="center">
-  <img src="assets/telarana.svg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=34&duration=2500&pause=600&color=E62429&vCenter=true&width=650&center=true&lines=%C2%A1POW%21%20Construyo%20APIs%20y%20webs;%C2%A1BAM%21%20Java%20%7C%20TypeScript%20%7C%20Vue;%C2%A1ZAP%21%20Automatizo%20mi%20homelab;%C2%A1BOOM%21%20%2B1000%20contribuciones%20este%20a%C3%B1o;%C2%A1KRAK%21%20Siempre%20aprendiendo%20algo%20nuevo" />
 </p>
 
 <p align="center">
@@ -20,7 +14,7 @@
   <img src="assets/separador.svg" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B7%EF%B8%8F+Sobre+mí" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B7%EF%B8%8F%20Sobre%20m%C3%AD" />
 
 - 🕷️ Desarrollo full stack: APIs (Java, TypeScript) y frontends en Vue
 - 🕸️ Homelab: servidores, contenedores y automatización
@@ -36,7 +30,7 @@
   <img src="assets/separador.svg" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B8%EF%B8%8F+Mi+arsenal" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B8%EF%B8%8F%20Mi%20arsenal" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,vue,nodejs,linux,docker,git&theme=dark" />
@@ -46,7 +40,7 @@
   <img src="assets/separador.svg" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B7%EF%B8%8F+Estadísticas" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B7%EF%B8%8F%20Estad%C3%ADsticas" />
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SebastianGaldames&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E62429&text_color=FFFFFF&icon_color=E62429" />
@@ -65,20 +59,16 @@
   <img src="assets/separador.svg" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B8%EF%B8%8F+Mis+contribuciones" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&duration=2000&pause=2500&color=FFFFFF&vCenter=true&width=400&height=45&lines=%F0%9F%95%B8%EF%B8%8F%20Mis%20contribuciones" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SebastianGaldames/SebastianGaldames/output/snake.svg?v=1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=24&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=500&lines=¡Gracias+por+caer+en+mi+red!;¡Nos+vemos+en+el+próximo+commit!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=24&duration=3000&pause=1000&color=E62429&vCenter=true&width=500&center=true&lines=%C2%A1Gracias%20por%20caer%20en%20mi%20red%21;%C2%A1Nos%20vemos%20en%20el%20pr%C3%B3ximo%20commit%21" />
 </p>
 
 <p align="center">
   <img src="assets/telarana.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,100:E62429&height=100&section=footer&rotate=-3&animation=twinkling" />
 </p>
